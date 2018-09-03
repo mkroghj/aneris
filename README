@@ -1,0 +1,16 @@
+
+The development is built in Coq version: 8.7.2
+
+We also rely on the following:
+
+Coq-stdpp:
+https://gitlab.mpi-sws.org/robbertkrebbers/coq-stdpp.git
+
+Hash:
+aa942ca85603ae4e88a963abc7691e77ed3c46a7
+
+Iris:
+https://gitlab.mpi-sws.org/FP/iris-coq.git
+
+Hash:
+1d29427d2532d1873f94d158bce72f18a7912f55
